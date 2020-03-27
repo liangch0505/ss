@@ -1,0 +1,2 @@
+model_checkpoint_path: "hmdbmodel1"
+all_model_checkpoint_paths: "hmdbmodel1"
